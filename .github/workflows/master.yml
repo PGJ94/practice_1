@@ -3,7 +3,7 @@ name: Test and Build Image for Docker
 on: [push]
 
 env:
-  DOCKER_REPO_NAME: jangp94/module 1
+  DOCKER_REPO_NAME: jangp94/module1
 
 jobs:
   build:
